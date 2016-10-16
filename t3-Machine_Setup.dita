@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_kps_kqf_qx">
+    <title>Setting up the machine (cont.)</title>
+    <shortdesc>How to put together the ice cream machine.</shortdesc>
+    <taskbody>
+        <context>You'll need all the parts of the ice cream machine.<p/></context>
+        <steps>
+            <step>
+                <cmd>Place the motor base on a table, counter or other flat surface, making sure a
+                    power outlet is within range</cmd>
+            </step>
+            <step>
+                <cmd>Place the frozen freezer bowl on the center of the base</cmd>
+            </step>
+            <step>
+                <cmd>Place the mixing arm in the freezer bowl</cmd>
+            </step>
+            <step>
+                <cmd>Place the lid on the base and turn clockwise to lock</cmd>
+            </step>
+            <step>
+                <cmd>WARNING: THE FREEZER BOWL WILL BEGIN TO DEFROST QUICKLY, SO REMOVE IT FROM THE
+                    FREEZER IMMEDIATELY BEFORE YOU PLAN ON USING IT</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

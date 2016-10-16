@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qyd_zsf_qx">
+    <title>Cleaning the machine</title>
+    <shortdesc>How to clean the ice cream machine after use.</shortdesc>
+    <taskbody>
+        <context>You'll need a dirty ice cream machine, sink, soap, washcloth and a
+            towel.<p/></context>
+        <steps>
+            <step>
+                <cmd>Make a sink full of warm, soapy water in the kitchen</cmd>
+            </step>
+            <step>
+                <cmd>Clean the freezer bowl, along with the mixing arm and lid in the sink using the
+                    warm soapy water</cmd>
+            </step>
+            <step>
+                <cmd>After you wash all of the machine parts, wipe down the motor base with a damp
+                    washcloth</cmd>
+            </step>
+            <step>
+                <cmd>Continue to dry all parts thoroughly with a towel</cmd>
+            </step>
+            <step>
+                <cmd>WARNING: DO NOT IMMERSE THE MOTOR BASE IN WATER OR CLEAN ANY OF THE PARTS WITH
+                    ABRASIVE CLEANERS/HARD IMPLEMENTS</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

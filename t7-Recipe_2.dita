@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qch_jwf_qx">
+    <title>Mango Frozen Yogurt</title>
+    <shortdesc>A recipe for making mango frozen yogurt with the ice cream machine. This recipe will
+        make about 6 cups, or 10-12 servings.</shortdesc>
+    <taskbody>
+        <context>You'll need these ingredients- 2 cups whole milk, plain Greek yogurt, ½ cup
+            granulated sugar, 4 cups frozen mango pieces (thawed) or fresh mango, 1 teaspoon fresh
+            lime juice, pinch kosher salt.<p/></context>
+        <steps>
+            <step>
+                <cmd>Using a food processor, puree all of the ingredients until completely
+                    mixed</cmd>
+            </step>
+            <step>
+                <cmd>Scrape down the sides of the bowl as needed</cmd>
+            </step>
+            <step>
+                <cmd>Strain the mixture into a medium-sized bowl</cmd>
+            </step>
+            <step>
+                <cmd>Cover and place in the refrigerator</cmd>
+                <substeps id="substeps_fm4_3cg_qx">
+                    <substep>
+                        <cmd>Refrigerate for at least 2 hours or overnight</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Turn on the ice cream machine</cmd>
+            </step>
+            <step>
+                <cmd>Press the Ice Cream button</cmd>
+            </step>
+            <step>
+                <cmd>Press Start/Stop</cmd>
+            </step>
+            <step>
+                <cmd>Pour the mixture through the spout</cmd>
+            </step>
+            <step>
+                <cmd>Cover with the cap</cmd>
+            </step>
+            <step>
+                <cmd>Let the machine mix until thickened into a soft, creamy texture</cmd>
+            </step>
+            <step>
+                <cmd>If a firmer consistency is desired, follow step 4 from the previous
+                    recipe</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

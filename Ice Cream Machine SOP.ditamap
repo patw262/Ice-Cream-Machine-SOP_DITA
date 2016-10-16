@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>DITA Topic Map</title>
+ <topicref href="t-Intro_ToC.dita"/>
+ <topicref href="t-Machine_Prep.dita"/>
+ <topicref href="t-Machine_Setup.dita"/>
+ <topicref href="t-Machine_Operation.dita"/>
+ <topicref href="t-Machine_Cleaning.dita"/>
+ <topicref href="t-Recipe_1.dita"/>
+ <topicref href="t-Recipe_2.dita"/>
+ <topicref href="t-Recipe_3.dita"/>
+</map>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gwc_ykf_qx">
+    <title>Setting up the machine</title>
+    <shortdesc>How to pre-clean and prepare the ice cream machine for use.</shortdesc>
+    <taskbody>
+        <context>You'll need a sink, soap, washcloth, freezer, and all of the ice cream machine
+            parts.<p/></context>
+        <steps>
+            <step>
+                <cmd>Wipe down each part of the machine with a moist cloth</cmd>
+            </step>
+            <step>
+                <cmd>Wash the lid, freezer bowl and mixing arm in warm soapy water</cmd>
+            </step>
+            <step>
+                <cmd>Pre-freeze the freezer bowl for 12-24 hours after cleaning, preferably in the
+                    back of the freezer where it is coldest</cmd>
+            </step>
+            <step>
+                <cmd>WARNING: DO NOT IMMERSE THE MOTOR BASE IN WATER OR CLEAN ANY OF THE PARTS WITH
+                    ABRASIVE CLEANERS/HARD IMPLEMENTS</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

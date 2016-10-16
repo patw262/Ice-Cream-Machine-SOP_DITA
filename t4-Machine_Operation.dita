@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_clk_lrf_qx">
+    <title>Operating the machine</title>
+    <shortdesc>How to operate the ice cream machine.</shortdesc>
+    <taskbody>
+        <context>The machine should be set up and ready to go if you followed the instructions found
+            in the previous tasks.<p/></context>
+        <steps>
+            <step>
+                <cmd>Plug the machine in</cmd>
+                <substeps id="substeps_ok5_5rf_qx">
+                    <substep>
+                        <cmd>This will make all the function buttons light up</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Select your desired funtion on the control panel</cmd>
+                <substeps id="substeps_chg_csf_qx">
+                    <substep>
+                        <cmd>Ice Cream (also use when prepping frozen yogurt)</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Gelato</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Sorbet</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Press the Start/Stop button</cmd>
+            </step>
+            <step>
+                <cmd>Pour your ingredients through the ingredient spout</cmd>
+            </step>
+            <step>
+                <cmd>Place the measurement cup on the lid</cmd>
+            </step>
+            <step>
+                <cmd>Depending on the recipe you use, your frozen dessert will be done in 15-40
+                    minutes</cmd>
+            </step>
+            <step>
+                <cmd>When the time expires, your ice cream machine will beep for 5 seconds every 3
+                    minutes</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>This will continue for 30 minutes until you turn it off</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>NOTE: YOU CAN STORE YOUR DESSERT IN THE FREEZER FOR TWO OR MORE HOURS FOR A
+                    FIRMER CONSISTENCY</cmd>
+            </step>
+            <step>
+                <cmd>WARNING: DON'T STORE FROZEN DESSERTS IN THE FREEZER BOWL, BECAUSE THEY WILL
+                    STICK THE THE SIDE OF THE BOWL AND DAMAGE THE BOWL</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>A PLASTIC CONTAINER IS RECOMMENDED</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

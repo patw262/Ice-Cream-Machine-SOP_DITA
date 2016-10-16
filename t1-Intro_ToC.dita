@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xx3_1kf_qx">
+    <title>How to use the Ice Cream Machine in Shanks 360</title>
+    <shortdesc>This manual will provide you with the knowledge and skills to operate the Cuisinart
+        ICE-60W ice cream machine in Shanks Hall, Room 360 at Virginia Tech.</shortdesc>
+    <taskbody>
+        <context>Table of Contents<p/></context>
+        <steps>
+            <step>
+                <cmd>How to set up the machine</cmd>
+            </step>
+            <step>
+                <cmd>How to use the machine to make ice cream</cmd>
+            </step>
+            <step>
+                <cmd>How to clean the machine</cmd>
+            </step>
+            <step>
+                <cmd>Ice cream recipes</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_g5c_qcg_qx">
+    <title>Dairy-Free Vanilla Ice Cream</title>
+    <shortdesc>A recipe for making dairy-free vanilla ice cream with the ice cream machine. This
+        recipe will make about 6 cups, or 10-12 servings.</shortdesc>
+    <taskbody>
+        <context>You'll need these ingredients- 4 cups unsweetened dairy-free milk (soy, hemp,
+            almond, or rice), 2 ½ tablespoons tapioca starch, 1 cup granulated sugar, pinch kosher
+            salt, 1 ½ teaspoons pure vanilla extract.<p/></context>
+        <steps>
+            <step>
+                <cmd>Using a hand mixer on low speed or whisk, mix together all of the ingredients
+                    in a medium-sized bowl</cmd>
+            </step>
+            <step>
+                <cmd>Cover and refrigerate for at least 2 hours or overnight</cmd>
+            </step>
+            <step>
+                <cmd>Whisk the mixture again after refrigeration</cmd>
+            </step>
+            <step>
+                <cmd>Turn the ice cream machine on</cmd>
+            </step>
+            <step>
+                <cmd>Press Ice Cream</cmd>
+            </step>
+            <step>
+                <cmd>Press Start/Stop</cmd>
+            </step>
+            <step>
+                <cmd>Pour the mixture through the spout</cmd>
+            </step>
+            <step>
+                <cmd>Cover with the cap</cmd>
+            </step>
+            <step>
+                <cmd>Let it mix until thickened to a soft, creamy texture</cmd>
+            </step>
+            <step>
+                <cmd>If a firmer consistency is desired, follow step 4 from Recipe 1</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

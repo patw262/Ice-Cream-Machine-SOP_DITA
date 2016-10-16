@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sjf_x5f_qx">
+    <title>Butter Pecan Ice Cream</title>
+    <shortdesc>A recipe for making butter pecan ice cream with the ice cream machine. This recipe
+        will make about 6.5 cups, or 10-12 servings.</shortdesc>
+    <taskbody>
+        <context>You'll need these ingredients- 4 tablespoons unsalted butter, 1 cup pecan halves, 1
+            teaspoon kosher salt + pinch, 1 ¼ cups whole milk, 1 cup granulated sugar, 2 ½ cups
+            heavy cream, 2 teaspoons pure vanilla extract.<p/></context>
+        <steps>
+            <step>
+                <cmd>Preparing the pecans</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Melt your butter in a medium skillet</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add the pecans and 1 teaspoon of salt</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Cook over medium-low heat, stirring frequently, until pecans are golden
+                                brown<sub>(This should take about 6-8 minutes)</sub></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Remove the pecans from heat, strain and reserve, allowing them to chill
+                            before adding to the ice cream</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Preparing the ice cream</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Using a hand mixer on low speed or a whisk, mix together the milk,
+                            sugar and pinch of salt in a medium bowl until the sugar completely
+                            dissolves</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Cover and refrigerate for at least two hours or overnight</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Uncover the mixture and whisk again</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Press the Ice Cream button</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Press Start/Stop</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Pour the mixture into the spout and cover the cap, letting it mix until
+                            thickened</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>When the ice cream is fully churned, gradually add the pecans and allow it to
+                    mix together thoroughly</cmd>
+            </step>
+            <step>
+                <cmd>If a firmer consistency is desired, you may transfer the ice cream to an
+                    airtight container and place in the freezer for about 2 hours</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Make sure to let the ice cream sit out after freezing for at least 15
+                            minutes before serving</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
