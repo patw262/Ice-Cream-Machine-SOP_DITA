@@ -1,0 +1,9 @@
+fil = new Array();
+fil["0"]= "t1-Intro_ToC.html@@@How to use the Ice Cream Machine in Shanks 360@@@This manual will provide you with the knowledge and skills to operate the Cuisinart ICE-60W ice cream machine in Shanks Hall, Room 360 at Virginia Tech...";
+fil["1"]= "t2-Machine_Prep.html@@@Setting up the machine@@@How to pre-clean and prepare the ice cream machine for use...";
+fil["2"]= "t3-Machine_Setup.html@@@Setting up the machine (cont.)@@@How to put together the ice cream machine...";
+fil["3"]= "t4-Machine_Operation.html@@@Operating the machine@@@How to operate the ice cream machine...";
+fil["4"]= "t5-Machine_Cleaning.html@@@Cleaning the machine@@@How to clean the ice cream machine after use...";
+fil["5"]= "t6-Recipe_1.html@@@Butter Pecan Ice Cream@@@A recipe for making butter pecan ice cream with the ice cream machine. This recipe will make about 6.5 cups, or 10-12 servings...";
+fil["6"]= "t7-Recipe_2.html@@@Mango Frozen Yogurt@@@A recipe for making mango frozen yogurt with the ice cream machine. This recipe will make about 6 cups, or 10-12 servings...";
+fil["7"]= "t8-Recipe_3.html@@@Dairy-Free Vanilla Ice Cream@@@A recipe for making dairy-free vanilla ice cream with the ice cream machine. This recipe will make about 6 cups, or 10-12 servings...";

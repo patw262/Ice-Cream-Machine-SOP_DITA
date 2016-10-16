@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="task_xx3_1kf_qx" path="t1-Intro_ToC.html"/>
+   <appContext helpID="task_gwc_ykf_qx" path="t2-Machine_Prep.html"/>
+   <appContext helpID="task_kps_kqf_qx" path="t3-Machine_Setup.html"/>
+   <appContext helpID="task_clk_lrf_qx" path="t4-Machine_Operation.html"/>
+   <appContext helpID="task_qyd_zsf_qx" path="t5-Machine_Cleaning.html"/>
+   <appContext helpID="task_sjf_x5f_qx" path="t6-Recipe_1.html"/>
+   <appContext helpID="task_qch_jwf_qx" path="t7-Recipe_2.html"/>
+   <appContext helpID="task_g5c_qcg_qx" path="t8-Recipe_3.html"/>
+</map>
